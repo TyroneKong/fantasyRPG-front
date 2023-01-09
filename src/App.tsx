@@ -1,7 +1,5 @@
-import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
-import CharacterCard from "./Componets/Cards/CharacterCard";
+import CharacterCard from "Componets/pages/Cards/CharacterCard";
 import { Text } from "@chakra-ui/react";
 function App() {
   return (
